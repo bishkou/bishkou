@@ -26,8 +26,9 @@
     
 - 🌱 I am a freelancer too, I do web scraping and automation tasks using Python.<br>
 
-- 📫 You can reach me on LinkedIn: [@chedyhm](https://linkedin.com/in/chedyhm)
 - ⚡ Fun fact: I love building and flying drones 🚀🚀
+- 📫 You can reach me on <img src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" alt="Linkedin Logo" width="80" height="20"/> 
+: [@chedyhm](https://linkedin.com/in/chedyhm)
 
 --- 
 
@@ -44,10 +45,10 @@
 <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Npm Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg" alt="AWS s3 Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="Npm Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="70" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg" alt="AWS s3 Logo" width="80" height="80"/>
+<img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="70" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="Npm Logo" width="70" height="50"/>
 
 ---
 
