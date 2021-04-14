@@ -21,9 +21,10 @@
 - 🔭 I’m currently working on [Webipie](https://www.webipie.com), a website builder that is going to disrupt the Tunisian commerce market.
 
     I am part of some cool projects, such as;<br>
-    **1.** Recreating the website of my University along with my talented teammates<br>
+    **1.** 1. Recreating my University's website along with my talented teammates<br>
     **2.** I am part of the EcoMap team where I am in charge of developing a web-based service that aims to promote sustainable and ethical consumption habits in urban areas<br>
-    **3.** I am a freelancer too, I do web scraping and automation tasks using Python.<br>
+    
+- 🌱 I am a freelancer too, I do web scraping and automation tasks using Python.<br>
 
 - 📫 You can reach me on LinkedIn: [@chedyhm](https://linkedin.com/in/chedyhm)
 - ⚡ Fun fact: I love building and flying drones 🚀🚀
@@ -32,7 +33,8 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="Nest Logo" width="50" height="50"/>
