@@ -41,9 +41,9 @@
 <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="Nest Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="Mongo Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="Mysql Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" alt="Sequelize Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="Mongo Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="70" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg" alt="AWS s3 Logo" width="80" height="80"/>
