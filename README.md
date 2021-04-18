@@ -34,21 +34,22 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="Typescript Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" alt="Nest Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="Mongo Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="Mysql Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" alt="Sequelize Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mysql-5.svg" alt="Mysql Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" alt="Sequelize Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" alt="Mongo Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="Redis Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker Logo" width="70" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/amazon-s3.svg" alt="AWS s3 Logo" width="80" height="80"/>
-<img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="70" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/travis-ci.svg" alt="Travis Logo" width="80" height="80"/>
 <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" alt="Npm Logo" width="70" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="Git Logo" width="70" height="50"/>
 
 ---
 
