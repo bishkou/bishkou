@@ -63,15 +63,15 @@
 
 ## 📝 — Check my recent Articles on Medium!<br>
 <a target="_blank" href="https://chedyhammami.medium.com/git-clone-vs-fork-in-github-610f158d61e3">
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chedyhammami/5" alt="Git clone vs Fork"> 
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chedyhammami/5" alt="Git clone vs Fork"> </a>
 <a target="_blank" href="https://chedyhammami.medium.com/how-to-speed-up-mongo-queries-using-redis-153e2d41977d">
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chedyhammami/4" alt="Mongo w/ Redis">
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chedyhammami/4" alt="Mongo w/ Redis"></a>
 <a target="_blank" href="https://chedyhammami.medium.com/javascript-mindf-k-tostring-5e22aea1ffcc">
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chedyhammami/2" alt="Js toString">
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chedyhammami/2" alt="Js toString"></a>
 <a target="_blank" href="https://medium.com/swlh/make-sure-your-users-passwords-hasn-t-been-hacked-before-9c10527da384">
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chedyhammami/1" alt="PWND">
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chedyhammami/1" alt="PWND"></a>
 <a target="_blank" href="https://chedyhammami.medium.com/docker-hello-world-5fd08f2d7e68">
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chedyhammami/0" alt="Docker Hello">
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@chedyhammami/0" alt="Docker Hello"></a>
 
 
 
