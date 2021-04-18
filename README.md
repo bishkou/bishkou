@@ -56,13 +56,12 @@
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishkou)](https://github.com/bishkou/github-readme-stats)
-
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishkou)](https://github.com/bishkou/github-readme-stats)
+[![Chedy's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishkou)](https://github.com/bishkou/github-readme-stats)
 
 
 ---
 
-### 📝 — Check my recent Articles on Medium!<br>
+## 📝 — Check my recent Articles on Medium!<br>
 <a target="_blank" href="https://chedyhammami.medium.com/git-clone-vs-fork-in-github-610f158d61e3">
 <img src="https://github-readme-medium-recent-article.vercel.app/medium/@chedyhammami/5" alt="Git clone vs Fork"> 
 <a target="_blank" href="https://chedyhammami.medium.com/how-to-speed-up-mongo-queries-using-redis-153e2d41977d">
