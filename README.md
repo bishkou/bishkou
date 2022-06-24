@@ -21,7 +21,7 @@
 - 🔭 I worked as a FullStack Developer for [Kruu](https://kruu.com/de), for over a year.
 
     I am part of some cool projects, such as;<br>
-    **1.** I was working on [Webipie](https://www.webipie.me), a portfolio builder.
+    **1.** I was working on [Webipie](https://www.webipie.me), a portfolio builder.<br>
     **2.** I was Backend team lead for recreating my University's website<br>
     **3.** I was part of the EcoMap team, a German Organization, where I am in charge of developing a web-based service that aims to promote sustainable and ethical consumption habits in German and European urban areas<br>
     
