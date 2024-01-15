@@ -15,8 +15,6 @@
 
 -->
 
-🚀 Transforming Ideas into Robust Solutions 🚀
-
 👋 Greetings! I'm Chedy, a dedicated backend software developer with a passion for crafting efficient and scalable solutions. With a strong foundation in Node.js, Express, MongoDB, Python, JavaScript, and Jest, I specialize in building the backbone of applications that power businesses.
 
 💻 Technical Proficiency:
