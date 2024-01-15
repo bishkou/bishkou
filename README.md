@@ -15,16 +15,17 @@
 
 -->
 
-🌇 Tunisia Native, with a passion for coding and developing useful tools, also I'm breaking into the entrepreneurial world with slow-steady steps.
+🚀 Transforming Ideas into Robust Solutions 🚀
 
+👋 Greetings! I'm Chedy, a dedicated backend software developer with a passion for crafting efficient and scalable solutions. With a strong foundation in Node.js, Express, MongoDB, Python, JavaScript, and Jest, I specialize in building the backbone of applications that power businesses.
 
-- 🔭 I worked as a FullStack Developer for [Kruu](https://kruu.com/de), for over a year.
+💻 Technical Proficiency:
 
-    I am part of some cool projects, such as;<br>
-    **1.** I was working on [Webipie](https://www.webipie.me), a portfolio builder.<br>
-    **2.** I was Backend team lead for recreating my University's website<br>
-    **3.** I was part of the EcoMap team, a German Organization, where I am in charge of developing a web-based service that aims to promote sustainable and ethical consumption habits in German and European urban areas<br>
-    
+-JavaScript: Employing modern JavaScript to create responsive and dynamic backend functionalities.
+-Node.js & Express: Leveraging the power of JavaScript on the server side to create fast, scalable, and maintainable backend systems.
+-MongoDB: Designing and optimizing database schemas to ensure seamless data storage and retrieval.
+-Python: Using Python for scripting, automation, and backend development to enhance overall system functionality.
+-Jest: Ensuring code reliability through comprehensive testing using Jest.
 - 🌱 I am a freelancer too, I do web scraping and automation tasks using Python.<br>
 
 - ⚡ Fun fact: I love building and flying drones 🚀🚀
